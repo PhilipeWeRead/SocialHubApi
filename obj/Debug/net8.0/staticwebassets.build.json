@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "TyyG34dSeBB0ngSGAVC3KxQ/qv9doAwmMKdMA5QcYq8=",
+  "Source": "SocialHubApi",
+  "BasePath": "_content/SocialHubApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SocialHubApi\\wwwroot",
+      "Source": "SocialHubApi",
+      "ContentRoot": "C:\\Users\\phili\\Downloads\\SocialHubApi\\wwwroot\\",
+      "BasePath": "_content/SocialHubApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\phili\\Downloads\\SocialHubApi\\wwwroot\\css\\styles.css",
+      "SourceId": "SocialHubApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\phili\\Downloads\\SocialHubApi\\wwwroot\\",
+      "BasePath": "_content/SocialHubApi",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\phili\\Downloads\\SocialHubApi\\wwwroot\\Index.html",
+      "SourceId": "SocialHubApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\phili\\Downloads\\SocialHubApi\\wwwroot\\",
+      "BasePath": "_content/SocialHubApi",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\phili\\Downloads\\SocialHubApi\\wwwroot\\js\\app.js",
+      "SourceId": "SocialHubApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\phili\\Downloads\\SocialHubApi\\wwwroot\\",
+      "BasePath": "_content/SocialHubApi",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ]
+}

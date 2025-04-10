@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SocialHub API</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/js/app.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao SocialHub API!</h1>
+        <p>Use nossa API para gerenciar posts e interagir com a rede social.</p>
+    </header>
+
+    <!-- Formulário de Adicionar Post -->
+    <div id="addPostForm" style="display:none;">
+        <textarea id="content" placeholder="Escreva algo..."></textarea><br>
+        <button onclick="addPost()">Adicionar Post</button>
+        <button onclick="hideAddPostForm()">Cancelar</button>
+    </div>
+    <button onclick="showAddPostForm()">Criar Post</button>
+
+    <div id="postsContainer"></div>  <!-- Aqui os posts serão exibidos -->
+
+    <footer>
+        <p><a href="/swagger">Acesse a documentação da API</a></p>
+    </footer>
+</body>
+</html>
